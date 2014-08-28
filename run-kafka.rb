@@ -1,7 +1,6 @@
 require 'zk'
 require 'yaml'
 require 'erb'
-require 'json'
 
 module Kafka
   class Broker
